@@ -10,7 +10,8 @@ Paradoteo1/
   
 Paradoteo2/
   └── computational_analysis.py     # Παραδοτέο 2
-
+</pre>
+<pre>
 ## Commands
 conda activate nlp-recon
 python reconstruction_phrases.py
