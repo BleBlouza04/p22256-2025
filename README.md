@@ -1,3 +1,4 @@
+<pre>
 Paradoteo1/
   ├── reconstruction_phrases.py     # Παραδοτέο 1Α: Aνακατασκευή  2 προτάσεων
   ├── reconstruction_full_text.py   # Παραδοτέο 1Β: Ανακατασκευή των 2 κειμένων με GPT-2, T5, LanguageTool
@@ -16,6 +17,7 @@ python reconstruction_phrases.py
 python reconstruction_full_text.py
 python results_comparison.py
 python computational_analysis.py
+</pre>
 
 ## Dependencies
 
