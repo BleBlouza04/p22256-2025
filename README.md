@@ -10,6 +10,13 @@ Paradoteo1/
 Paradoteo2/
   └── computational_analysis.py     # Παραδοτέο 2
 
+## Commands
+conda activate nlp-recon
+python reconstruction_phrases.py
+python reconstruction_full_text.py
+python results_comparison.py
+python computational_analysis.py
+
 ## Dependencies
 
 The project requires the following libraries:
