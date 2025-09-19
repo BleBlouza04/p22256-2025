@@ -1,0 +1,15 @@
+name: nlp-recon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - transformers
+      - sentence-transformers
+      - language-tool-python
+      - nltk
+      - pandas
+      - scikit-learn

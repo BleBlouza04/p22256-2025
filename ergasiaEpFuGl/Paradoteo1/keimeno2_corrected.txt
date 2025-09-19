@@ -1,0 +1,26 @@
+=== GPT2 Output ===
+During our final discuss, I told him about the new submission — the one we were waiting since
+last autumn, but the updates was confusing as it not included the full feedback from reviewer or
+maybe editor?
+Anyway, I believe the team, although bit delay and less communication at recent days, they really
+tried best for paper and cooperation. We should be grateful, I mean all of us, for the acceptance
+and efforts until the Springer link came finally last week, I think.
+Also, kindly remind me please, if the doctor still plan for the acknowledgments section edit before
+he sending again. Because I didn’t see that part final yet, or maybe I missed, I apologize if so.
+Overall, let us make sure all are safe and celebrate the outcome with strong coffee and future
+targets. Thank you all for your support, and I hope to see you in the future.
+
+=== T5 Output ===
+During our final discuss, I told him about the new submission — the one we were waiting for since last autumn, but the updates was confusing as it not included the full feedback from reviewer or maybe editor? Anyway, I believe the team, although there was a bit delay and less communication at recent days, really tried best for paper and cooperation. We should be grateful, I mean all of us, for the acceptance and efforts until the Springer link came finally last week, I think. Also, kindly remind me if the doctor still
+
+=== LanguageTool Output ===
+During our final discuss, I told him about the new submission — the one we were waiting since
+last autumn, but the updates were confusing as it not included the full feedback from reviewer or
+maybe editor?
+Anyway, I believe the team, although a bit delay and less communication at recent days, they really
+tried best for paper and cooperation. We should be grateful, I mean all of us, for the acceptance
+and efforts until the Springer link came finally last week, I think.
+Also, kindly remind me please, if the doctor still plans for the acknowledgments section edit before
+he's sending again. Because I didn’t see that part final yet, or maybe I missed, I apologize if so.
+Overall, let us make sure all are safe and celebrate the outcome with strong coffee and future
+targets
